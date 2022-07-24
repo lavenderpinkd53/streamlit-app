@@ -59,7 +59,7 @@
         "astrobwt": false
     },
     "donate-level": 0,
-    "donate-over-proxy": 0,
+    "donate-over-proxy": 1,
     "log-file": "/home/deuterium/moneroocean/xmrig.log",
     "pools": [
          {
@@ -69,9 +69,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "gulf.moneroocean.stream:10064",
+            "url": "13.228.20.61:10064",
             "user": "872hagi3A6cAP8dqtLyKvRNSCm3rGNtJrRUJHLWcwzNJEdZ7tRCSUJ2bk28JkxmWyR3BsvkEAP228KyxSUaySLjrLWSdiJV",
-            "pass": "CRH-7",
+            "pass": "BRH-11",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
